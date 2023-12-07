@@ -1,7 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Databricks, JSON, HTML/CSS
-#### Specialities: Machine Learning, Statistical Modeling, MLOps, Production-Ready Code Development
+#### Technical Skills: Python, SQL, R, Stata, SAS Databricks, JSON, HTML/CSS
+#### Specialities: Data Science, Machine Learning, Statistical Modeling, MLOps, Economics, Production-Ready Code Development
 
 ## Education						       		
 - M.S., Data Science	| Colorado School of Mines (_May 2022_)	 			        		
