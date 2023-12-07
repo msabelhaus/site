@@ -5,7 +5,7 @@
 
 ## Education						       		
 - M.S., Data Science	| Colorado School of Mines (_May 2022_)	 			        		
-- B.S., Statistis | The Pennsylvania State University (_May 2018_)
+- B.S., Statistics | The Pennsylvania State University (_May 2018_)
 - B.S., Economics | The Pennsylvania State University (_May 2018_)
 
 ## Work Experience
