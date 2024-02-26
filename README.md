@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, R, Stata, SAS, Databricks, JSON, HTML/CSS
-#### Specialities: Data Science, Machine Learning, Statistical Modeling, Webscraping, Economics, Production-Ready Code Development
+#### Specialties: Data Science, Machine Learning, Statistical Modeling, Webscraping, Economics, Production-Ready Code Development
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/msabelhaus/)
