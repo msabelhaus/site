@@ -36,10 +36,10 @@ strategic choices.
 
 ## Projects and Blog Posts
 ### Energy Demand Forecast for Connecticut ISO Zone
-[Github](https://github.com/msabelhaus/load-forecasting) [Blog Post](https://medium.com/@margaret.sabelhaus/forecasting-energy-demand-using-a-long-short-term-memory-network-a0e75cb6a38b)
+[Github](https://github.com/msabelhaus/load-forecasting) | [Blog Post](https://medium.com/@margaret.sabelhaus/forecasting-energy-demand-using-a-long-short-term-memory-network-a0e75cb6a38b)
 
 ### Landmark Recognition Using Deep Learning
 [Github](https://github.com/msabelhaus/CSCI575-Group12)
 
 ### Hierarchical Clustering in Python
-[Github](https://github.com/msabelhaus/tutorials/tree/main/hierarchicalClustering) [Blog Post](https://medium.com/@margaret.sabelhaus/introduction-to-hierarchical-clustering-in-python-7b4c8a8d8752)
+[Github](https://github.com/msabelhaus/tutorials/tree/main/hierarchicalClustering) | [Blog Post](https://medium.com/@margaret.sabelhaus/introduction-to-hierarchical-clustering-in-python-7b4c8a8d8752)
