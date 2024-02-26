@@ -34,7 +34,7 @@ strategic choices.
 - Developed a text mining R script to acquire data from PDF documents, saving researchers over \$450,000.
 - Served as the Project Coordinator for the Federal Reserve-led programming course at Howard University.
 
-## Projects / Blog Posts
+## Projects and Blog Posts
 ### Energy Demand Forecast for Connecticut ISO Zone
 [Github](https://github.com/msabelhaus/load-forecasting) [Blog Post](https://medium.com/@margaret.sabelhaus/forecasting-energy-demand-using-a-long-short-term-memory-network-a0e75cb6a38b)
 
